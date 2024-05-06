@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <topright>
+        <image src="logo.ico"alt="muthu logo" width="90px"></image></toright> 
+        <top>
+            <image src="2.png" alt="logo" width="300"></image>
+        </top><br>
+       <top><a>Muthuweb Page</a></top>
+       <topright></image><P>Welcome To The Page</P>
+        <p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+        
+        <title>MuthuKumar.D</title>
+        </topright>
+<center>
+     
+            <image src="muthu02.jpg"alt ="muthu image"width="200px"></image>
+            <p>D.Muthukumar</p>
+</center>
+
+        <ul>
+            <h2>Indroduction</h2>
+            <li>MuthuKumar.D (Born 14/09/2004) ,Known Professionally As "Muthu",Is A Student ,Finished School.Currently He Study In RPSIT INSTITUTE OF TECHNOLOGY </li>
+            <li>Born In Salem To The M.Devarajan And P.Jayakodi </li>
+            <li>Currently He Will Living On Village (Narippadi)</li>
+            <li>There Have The Two Siblings 
+                 <ul>D.Sivaprakash</ul>
+                 <ul>D.kowsalaya</ul>  
+
+                 <tb>Personal details</tb><tb></tb>
+            <h3>Quotes</h3>
+        <h6>Rember This Words</h6>
+                <li>"Some People Call Me A Failure . I'LL Prove Them Wrong"</li>
+
+                <li>"Nothing is Impossible The Word Itself Says 'I'M Possible!"</li>
+                
+                <li>"Don't Stop When You Are Tired , Stop When You Are Done" </li>
+                
+                <li>"Winning Is The Day & Night , It Can't Permanent!"</li>
+                
+                <li>"I Don't Know How I Am Going To Win . I Just Know I Am Not Going To Lose"</li>
+<h4>Contact Me  Use</h4>
+                <li>Click here for Email id </li>
+                <a href="MuthuKumar14092004@gmail.com">Email id; MUTHUKUMAR14092004@Gmail.com</a>
+<br>
+                <li>Click Here For Instagram</li>
+                <a href=https://www.instagram.com/itz_muthu_official_27>Instagram id ; itz_muthu_official_27</a>
+<br>
+                <li>Click Here For Youtube</li>
+               <a href="https://www.youtube.com/@Pikachu_official27">Youtube Channel ; PIKACHU_OFFICIAL27</a>
+<hr>
+           </ul>
+    </head>
+</html>
